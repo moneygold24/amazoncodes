@@ -1,0 +1,1 @@
+chrome-extension://mlnpcceaeigcohdpaddmkllbgnkgeoed/js/app/service/productdetection/transformations/stringslice.js
